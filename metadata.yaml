@@ -1,0 +1,29 @@
+_repo: Fairy-Tales-from-the-German-Forests_30834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arndt, Margaret
+    gutenberg_agent_id: '34846'
+    url: http://www.gutenberg.org/2009/agents/34846
+description: ''
+gutenberg_issued: '2010-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Germany'
+- !lcsh 'Children''s stories, German'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: "What's the Use of It?\r\nThe Engineer and the Dwarfs\r\nKäthchen\
+  \ and the Kobold\r\nThe Old King\r\nThe Dragon's Tail\r\nThe Easter Hare\r\nThe\
+  \ Nixy Lake\r\nKing Reinhold\r\nThe Witch's Granddaughter\r\nHoliday Adventures."
+title: Fairy Tales from the German Forests
+url: http://www.gutenberg.org/ebooks/30834
